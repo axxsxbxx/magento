@@ -213,5 +213,5 @@ vendor/*
 .ionide
 
 # Support for Project snippet scope
-
+composer.lock
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,magento,magento2

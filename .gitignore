@@ -214,4 +214,5 @@ vendor/*
 
 # Support for Project snippet scope
 **/composer.lock
+dev/**/composer.json
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,magento,magento2

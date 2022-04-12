@@ -1,0 +1,100 @@
+identity-link-url.phpArray
+(
+)
+Array
+(
+)
+callback-url.phpArray
+(
+    [oauth_consumer_key] => p5vu0qnd3qxbeetkpmf3a30yl0eq3016
+    [oauth_consumer_secret] => i3uqxlv0qxb4l3ag0qiqbt7x76kxt40b
+    [store_base_url] => http://localhost/magento/
+    [oauth_verifier] => bu440olv2ngueken1jfjy10s0x71fix5
+)
+Array
+(
+)
+identity-link-url.phpArray
+(
+)
+Array
+(
+    [oauth_consumer_key] => p5vu0qnd3qxbeetkpmf3a30yl0eq3016
+    [success_call_back] => http://localhost/magento/admin/admin/integration/loginSuccessCallback/key/b756c3242c87183dd406dcd3053bc3c2e86528d967fbc609479e7f4e9a1933eb/
+)
+check-login.phpArray
+(
+    [username] => admin
+    [password] => admin123
+    [submit] => Login
+)
+Array
+(
+    [consumer_id] => 
+    [callback_url] => http://localhost/magento/admin/admin/integration/loginSuccessCallback/key/b756c3242c87183dd406dcd3053bc3c2e86528d967fbc609479e7f4e9a1933eb/
+)
+callback-url.phpArray
+(
+    [oauth_consumer_key] => p5vu0qnd3qxbeetkpmf3a30yl0eq3016
+    [oauth_consumer_secret] => i3uqxlv0qxb4l3ag0qiqbt7x76kxt40b
+    [store_base_url] => http://localhost/magento/
+    [oauth_verifier] => bu440olv2ngueken1jfjy10s0x71fix5
+)
+Array
+(
+)
+identity-link-url.phpArray
+(
+)
+Array
+(
+    [oauth_consumer_key] => p5vu0qnd3qxbeetkpmf3a30yl0eq3016
+    [success_call_back] => http://localhost/magento/admin/admin/integration/loginSuccessCallback/key/b756c3242c87183dd406dcd3053bc3c2e86528d967fbc609479e7f4e9a1933eb/
+)
+callback-url.phpArray
+(
+    [oauth_consumer_key] => p5vu0qnd3qxbeetkpmf3a30yl0eq3016
+    [oauth_consumer_secret] => i3uqxlv0qxb4l3ag0qiqbt7x76kxt40b
+    [store_base_url] => http://localhost/magento/
+    [oauth_verifier] => bu440olv2ngueken1jfjy10s0x71fix5
+)
+Array
+(
+)
+identity-link-url.phpArray
+(
+)
+Array
+(
+    [oauth_consumer_key] => p5vu0qnd3qxbeetkpmf3a30yl0eq3016
+    [success_call_back] => http://localhost/magento/admin/admin/integration/loginSuccessCallback/key/b756c3242c87183dd406dcd3053bc3c2e86528d967fbc609479e7f4e9a1933eb/
+)
+check-login.phpArray
+(
+    [username] => admin
+    [password] => admin123
+    [submit] => Login
+)
+Array
+(
+    [consumer_id] => 
+    [callback_url] => http://localhost/magento/admin/admin/integration/loginSuccessCallback/key/b756c3242c87183dd406dcd3053bc3c2e86528d967fbc609479e7f4e9a1933eb/
+)
+callback-url.phpArray
+(
+    [oauth_consumer_key] => p5vu0qnd3qxbeetkpmf3a30yl0eq3016
+    [oauth_consumer_secret] => i3uqxlv0qxb4l3ag0qiqbt7x76kxt40b
+    [store_base_url] => http://localhost/magento/
+    [oauth_verifier] => bu440olv2ngueken1jfjy10s0x71fix5
+)
+Array
+(
+)
+identity-link-url.phpArray
+(
+)
+Array
+(
+    [oauth_consumer_key] => p5vu0qnd3qxbeetkpmf3a30yl0eq3016
+    [success_call_back] => http://localhost/magento/admin/admin/integration/loginSuccessCallback/key/b756c3242c87183dd406dcd3053bc3c2e86528d967fbc609479e7f4e9a1933eb/
+)
